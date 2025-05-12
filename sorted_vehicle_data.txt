@@ -1,0 +1,5 @@
+Sorted Vehicle Data (by Miles Per Gallon - Ascending)
+-----------------------------------------------------
+Make: Subaru, Model: Outback, MPG: 28.00
+Make: Subaru, Model: Crosstrek, MPG: 31.00
+Make: Toyota, Model: Prius, MPG: 45.00
